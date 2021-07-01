@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋👋👋
+
+Meu nome é Ilber e estou iniciando meus estudos em desenvolvimento!
+Aqui você pode encontrar os projetos que estou desenvolvendo, seja pessoalmente ou acompanhando cursos pela internet!
 
 <!--
 **ilbermendes/ilbermendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
