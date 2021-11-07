@@ -1,6 +1,6 @@
 ### Olá 👋👋👋
 
-Meu nome é Ilber e estou iniciando meus estudos em desenvolvimento!
+Meu nome é Ilber e estou iniciando meus estudos em programação!
 Aqui você pode encontrar os projetos que estou desenvolvendo, seja pessoalmente ou acompanhando cursos pela internet!
 
 <!--
