@@ -1,7 +1,7 @@
 ### Olá 👋👋👋
 
 Meu nome é Ilber e sou um desenvolvedor em formação!
-Nesse reporitório mantenho alguns códigos desenvolvidos ao longo de cursos/aulas bem como de projetos de interesse pessoal.
+Nesse reporitório mantenho alguns códigos desenvolvidos ao longo de cursos/aulas e de projetos de interesse pessoal.
 
 Atualmente, meu principal foco está em me aprofundar em .NET e C#.
 
