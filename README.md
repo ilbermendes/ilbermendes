@@ -1,9 +1,7 @@
 ### Olá 👋👋👋
 
 Meu nome é Ilber e sou um desenvolvedor em formação!
-Nesse reporitório mantenho alguns códigos desenvolvidos ao longo de cursos/aulas e de projetos de interesse pessoal.
-
-Atualmente, meu principal foco está em me aprofundar em .NET e C#.
+Nesse repositório mantenho alguns códigos desenvolvidos ao longo de cursos/aulas e de projetos de interesse pessoal.
 
 <!--
 **ilbermendes/ilbermendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
